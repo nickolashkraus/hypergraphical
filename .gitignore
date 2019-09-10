@@ -11,6 +11,5 @@ dist/
 cover/
 .coverage
 
-# hypergraphical
+# Hypergraphical
 *.json
-*.md
