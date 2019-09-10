@@ -1,0 +1,33 @@
+---
+security_now:
+  name: 'Security Now!'
+  episodes:
+    - index: '001'
+      title: 'As the Worm Turns - The First Internet Worms of 2005'
+      date: '2005-08-19'
+      duration: 18
+      remote_media_uri: 'https://media.grc.com/sn/sn-001.mp3'
+      speakers:
+        spk_0: 'Leo Laporte'
+        spk_1: 'Steve Gibson'
+      description: 'How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?'
+    - index: '002'
+      title: 'HoneyMonkeys'
+      date: '2005-08-25'
+      duration: 25
+      remote_media_uri: 'https://media.grc.com/sn/sn-002.mp3'
+      speakers:
+        spk_0: 'Leo Laporte'
+        spk_1: 'Steve Gibson'
+      description: 'How Microsoft''s "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.'
+    - index: '003'
+      title: 'NAT Routers as Firewalls'
+      date: '2005-09-01'
+      duration: 25
+      remote_media_uri: 'https://media.grc.com/sn/sn-003.mp3'
+      speakers:
+        spk_0: 'Leo Laporte'
+        spk_1: 'Steve Gibson'
+      description: 'Most people don''t think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.'
+
+

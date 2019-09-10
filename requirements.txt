@@ -1,0 +1,5 @@
+Click
+PyYAML
+boto3
+botocore
+requests
