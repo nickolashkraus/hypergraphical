@@ -16,7 +16,7 @@ setup(
     version='0.1',
     description='A Python package for generating transcriptions.',
     url='https://github.com/NickolasHKraus/hypergraphical',
-    author='Nickolas Kraus <NickHKraus@gmail.com>',
+    author='Nickolas Kraus <0x@nickolaskraus.io>',
     install_requires=dependencies,
     packages=find_packages(exclude=['*.test', '*.test.*', 'test.*', 'test']),
     entry_points={
